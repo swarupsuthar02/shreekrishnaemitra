@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Shree Krishna E-Mitra & CSC Centre</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f2f2f2;
+    }
+    header {
+      background-color: #3e8e41;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    header img {
+      max-width: 120px;
+      display: block;
+      margin: 0 auto 10px;
+    }
+    section {
+      padding: 20px;
+    }
+    .services, .contact {
+      background-color: white;
+      margin: 10px;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    ul {
+      line-height: 1.8;
+    }
+    .contact p {
+      font-size: 16px;
+    }
+    .contact a {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 10px 15px;
+      background-color: #25d366;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    footer {
+      background-color: #3e8e41;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
+    .center-img {
+      text-align: center;
+      margin-top: 20px;
+    }
+    .center-img img {
+      max-width: 90%;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="/mnt/data/file-CD4kM2WwSQe4rBuhuRJgDz" alt="Shree Krishna Logo">
+    <h1>Shree Krishna E-Mitra & CSC Centre</h1>
+    <p>श्री कृष्ण ई-मित्र और सीएससी सेंटर</p>
+  </header>
+
+  <div class="center-img">
+    <img src="/mnt/data/file-4hKWbtme1mKs9AqjKTRAWz" alt="Service Banner">
+  </div>
+
+  <section class="services">
+    <h2>Our Services / हमारी सेवाएं</h2>
+    <ul>
+      <li>Passport Photo / पासपोर्ट साइज फोटो</li>
+      <li>Electricity Bill / बिजली बिल</li>
+      <li>Rail Ticket / रेल टिकट</li>
+      <li>Bus Ticket / बस टिकट</li>
+      <li>Aadhaar Card / आधार कार्ड</li>
+      <li>PAN Card / पैन कार्ड</li>
+      <li>Ration Card / राशन कार्ड</li>
+      <li>Mool Niwas / मूल निवास</li>
+      <li>Jaati Praman Patra / जाति प्रमाण पत्र</li>
+      <li>Mrityu Praman Patra / मृत्यु प्रमाण पत्र</li>
+      <li>Jan Praman Patra / जन्म प्रमाण पत्र</li>
+      <li>Jan Aadhar Card / जन आधार कार्ड</li>
+      <li>Police Verification / पुलिस सत्यापन</li>
+      <li>Driving License / ड्राइविंग लाइसेंस</li>
+      <li>Chiranjeevi Yojana / चिरंजीवी योजना</li>
+      <li>Photo Copy / फोटो कॉपी</li>
+      <li>PVC Card / PVC कार्ड</li>
+      <li>Vivah Panjikaran / विवाह पंजीयन</li>
+      <li>EWS Praman Patra</li>
+      <li>Pension Satyapan / पेंशन सत्यापन</li>
+      <li>Passport Seva / पासपोर्ट सेवा</li>
+      <li>PM Kisan Yojana</li>
+      <li>Online Forms / ऑनलाइन फॉर्म</li>
+      <li>e-Shram Card</li>
+      <li>Jamabandi / जमाबंदी</li>
+      <li>Pehchan Patra / पहचान पत्र</li>
+      <li>Palanhar Yojana / पालनहार योजना</li>
+      <li>Lamination / लेमिनेशन</li>
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>Contact Us / संपर्क करें</h2>
+    <p><strong>Address:</strong> Near Punjab And Sind Bank, Shaitan Singh Nagar, Phalodi, Rajasthan - 342308</p>
+    <p><strong>Phone:</strong> <a href="tel:6378180566">6378180566</a></p>
+    <a href="https://wa.me/916378180566">Chat on WhatsApp</a>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Shree Krishna E-Mitra & CSC Centre</p>
+  </footer>
+</body>
+</html>
